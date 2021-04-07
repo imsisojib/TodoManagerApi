@@ -8,6 +8,23 @@ namespace TodoManagerApi.TodoData
 {
     public class MockTodoData : ITodoData
     {
+
+        private List<Todo> todos = new List<Todo>()
+        {
+            new Todo()
+            {
+                Id = Guid.NewGuid(),
+                Tittle = "Todo 1",
+                Description = "This is first todo."
+            },
+            new Todo()
+            {
+                Id = Guid.NewGuid(),
+                Tittle = "Todo 1",
+                Description = "This is first todo."
+            }
+        };
+
         //Test Purpose to check api
         public Todo AddTodo(Todo todo)
         {
@@ -26,7 +43,7 @@ namespace TodoManagerApi.TodoData
 
         public List<Todo> GetTodos()
         {
-            throw new NotImplementedException();
+            return todos;
         }
 
         public Todo UpdateTodo(Todo todo)
