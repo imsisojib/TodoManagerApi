@@ -12,7 +12,7 @@ namespace TodoManagerApi.TodoData
 
         Todo GetTodo(Guid id);
 
-        Todo AddTodo(Todo todo);
+        void AddTodo(Todo todo);
 
         void DeleteTodo(Todo todo);
 

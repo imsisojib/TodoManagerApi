@@ -26,9 +26,9 @@ namespace TodoManagerApi.TodoData
         };
 
         //Test Purpose to check api
-        public Todo AddTodo(Todo todo)
+        public void AddTodo(Todo todo)
         {
-            throw new NotImplementedException();
+            todos.Add(todo);
         }
 
         public void DeleteTodo(Todo todo)
@@ -38,7 +38,7 @@ namespace TodoManagerApi.TodoData
 
         public Todo GetTodo(Guid id)
         {
-            throw new NotImplementedException();
+            return todos.SingleOrDefault(x => x.Id == id);
         }
 
         public List<Todo> GetTodos()
