@@ -48,7 +48,14 @@ namespace TodoManagerApi.TodoData
 
         public Todo UpdateTodo(Todo todo)
         {
-            throw new NotImplementedException();
+            var existingTodo = todos.SingleOrDefault(x => x.Id == todo.Id);
+            if (existingTodo != null)
+            {
+                todos.Remove(existingTodo);
+                todos.Add(todo);
+            }
+
+            return todo;
         }
     }
 }

@@ -80,5 +80,21 @@ namespace TodoManagerApi.Controllers
             }
         }
 
+        [HttpPatch] //for update
+        //[Route("api/[controller]")], by default create route from method name...here it would be: api/todos
+        [Route("api/update_todo")]
+        public IActionResult UpdateTodo(Todo todo)
+        {
+            var existingTodo = _todoData.GetTodo(todo.Id);
+            if (existingTodo != null)
+            {
+                return Ok(_todoData.UpdateTodo(todo));
+            }
+            else
+            {
+                return NotFound($"Todo is not found.");
+            }
+        }
+
     }
 }
