@@ -33,7 +33,7 @@ namespace TodoManagerApi.TodoData
 
         public void DeleteTodo(Todo todo)
         {
-            throw new NotImplementedException();
+            todos.Remove(todo);
         }
 
         public Todo GetTodo(Guid id)

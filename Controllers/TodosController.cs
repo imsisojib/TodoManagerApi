@@ -63,5 +63,22 @@ namespace TodoManagerApi.Controllers
 
         }
 
+        [HttpDelete]
+        //[Route("api/[controller]")], by default create route from method name...here it would be: api/todos
+        [Route("api/delete_todo/{id}")]
+        public IActionResult DeleteTodo(Guid id)
+        {
+            var todo = _todoData.GetTodo(id);
+            if (todo != null)
+            {
+                _todoData.DeleteTodo(todo);
+                return Ok("Todo is deleted.");
+            }
+            else
+            {
+                return NotFound($"Todo id:= {id}, not found.");
+            }
+        }
+
     }
 }
