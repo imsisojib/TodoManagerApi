@@ -6,7 +6,7 @@ using TodoManagerApi.Models;
 
 namespace TodoManagerApi.TodoData
 {
-    interface ITodoData
+    public interface ITodoData
     {
         List<Todo> GetTodos();
 

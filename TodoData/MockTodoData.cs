@@ -20,8 +20,8 @@ namespace TodoManagerApi.TodoData
             new Todo()
             {
                 Id = Guid.NewGuid(),
-                Tittle = "Todo 1",
-                Description = "This is first todo."
+                Tittle = "Todo 2",
+                Description = "This is second todo."
             }
         };
 

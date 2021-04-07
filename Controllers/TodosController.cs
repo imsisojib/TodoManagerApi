@@ -8,7 +8,6 @@ using TodoManagerApi.TodoData;
 
 namespace TodoManagerApi.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class TodosController : ControllerBase
     {
@@ -21,7 +20,8 @@ namespace TodoManagerApi.Controllers
         }
 
         [HttpGet]
-        [Route("api/[controller]")]
+        //[Route("api/[controller]")], by default create route from method name...here it would be: api/todos
+        [Route("api/all_todos")]
         public IActionResult GetTodos()
         {
             return Ok(_todoData.GetTodos());
