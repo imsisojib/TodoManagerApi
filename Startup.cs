@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TodoManagerApi.TodoData;
 
 namespace TodoManagerApi
 {
@@ -25,6 +26,9 @@ namespace TodoManagerApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            //whenever it asked for ITodoData it will point to MockTodoData
+            services.AddSingleton<ITodoData, MockTodoData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
