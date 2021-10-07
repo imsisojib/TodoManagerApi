@@ -6,18 +6,6 @@ G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\net
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.runtimeconfig.dev.json
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.dll
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.pdb
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csprojAssemblyReference.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfoInputs.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfo.cs
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.CoreCompileInputs.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.MvcApplicationPartsAssemblyInfo.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.Manifest.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.xml
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TodoManagerApi.styles.css
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.RazorTargetAssemblyInfo.cache
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.dll
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.pdb
-G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.genruntimeconfig.cache
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Humanizer.dll
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -60,4 +48,85 @@ G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\net
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfoInputs.cache
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfo.cs
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.CoreCompileInputs.cache
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.Manifest.cache
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.xml
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TodoManagerApi.styles.css
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.RazorTargetAssemblyInfo.cache
 G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.CopyComplete
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.dll
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.pdb
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.genruntimeconfig.cache
+G:\Dot NET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csprojAssemblyReference.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.exe
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.deps.json
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.runtimeconfig.json
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.runtimeconfig.dev.json
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\TodoManagerApi.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.AssemblyReference.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfoInputs.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.AssemblyInfo.cs
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.CoreCompileInputs.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.MvcApplicationPartsAssemblyInfo.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.Manifest.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\staticwebassets\TodoManagerApi.StaticWebAssets.xml
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TodoManagerApi.styles.css
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.RazorTargetAssemblyInfo.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.csproj.CopyComplete
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.pdb
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.genruntimeconfig.cache
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\DOTNET Core Development\Projects\TodoManagerApi\TodoManagerApi\obj\Debug\netcoreapp3.1\TodoManagerApi.MvcApplicationPartsAssemblyInfo.cs

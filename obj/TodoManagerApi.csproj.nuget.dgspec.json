@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Dot NET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj": {}
+    "G:\\DOTNET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj": {}
   },
   "projects": {
-    "G:\\Dot NET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj": {
+    "G:\\DOTNET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Dot NET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj",
+        "projectUniqueName": "G:\\DOTNET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj",
         "projectName": "TodoManagerApi",
-        "projectPath": "G:\\Dot NET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "G:\\Dot NET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\obj\\",
+        "projectPath": "G:\\DOTNET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\TodoManagerApi.csproj",
+        "packagesPath": "C:\\Users\\imsisojib\\.nuget\\packages\\",
+        "outputPath": "G:\\DOTNET Core Development\\Projects\\TodoManagerApi\\TodoManagerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\imsisojib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +49,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -68,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -33,8 +33,11 @@ namespace TodoManagerApi
             //services.AddSingleton<ITodoData, MockTodoData>();
 
             //sql server connection and data fetching
-            services.AddDbContextPool<TodoContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionStrings")));
+            services.AddDbContextPool<TodoContext>(options => options.UseSqlServer(Configuration.GetConnectionString("TodoContextConnectionString")));
             services.AddScoped<ITodoData, SQLTodoData>();
+
+            //add swagger
+            services.AddSwaggerGen();
 
         }
 
@@ -54,6 +57,11 @@ namespace TodoManagerApi
             {
                 endpoints.MapControllers();
             });
+
+            //add swagher ui
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "TodoManager API V1"));
+
         }
     }
 }

@@ -21,7 +21,8 @@ namespace TodoManagerApi.TodoData
             todo.Id = Guid.NewGuid();
             _todoDbContext.Todos.Add(todo);
             _todoDbContext.SaveChanges();
-           
+
+        
         }
 
         public void DeleteTodo(Todo todo)
@@ -49,6 +50,15 @@ namespace TodoManagerApi.TodoData
         public List<Todo> GetTodos()
         {
             return _todoDbContext .Todos.ToList();
+
+           /* List<Todo> testTodos = new List<Todo>();
+            Todo todoo = new Todo();
+            todoo.Id = new Guid();
+            todoo.Tittle = "Testing Todo";
+            todoo.Description = "For testing from IIS server.";
+            testTodos.Add(todoo);
+
+            return testTodos;*/
         }
 
         public Todo UpdateTodo(Todo todo)
@@ -56,14 +66,15 @@ namespace TodoManagerApi.TodoData
             var existingTodo = _todoDbContext.Todos.Find(todo.Id);
             if (existingTodo != null)
             {
-                _todoDbContext.Todos.Update(todo);
-                _todoDbContext.SaveChanges();
+                /*_todoDbContext.Todos.Update(todo);
+                _todoDbContext.SaveChanges();*/
 
-               //Or,
-                /*existingTodo.Tittle = todo.Tittle;
+                //Or,
+                existingTodo.Tittle = todo.Tittle;
                 existingTodo.Description = todo.Description;
                 _todoDbContext.Todos.Update(existingTodo);
-                _todoDbContext.SaveChanges();*/
+                _todoDbContext.SaveChanges();
+               
             }
 
             return todo;
